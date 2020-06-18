@@ -1,9 +1,3 @@
-x = range(4)
-print(x)
-for i in x:
-    print(i)
-
-
 def iterPower(base, exp):
     '''
     base: int or float.
